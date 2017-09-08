@@ -13,8 +13,8 @@ TODO: Agregar instrucciones de uso
 
 Créditos
 
-TODO: Agregar autor(es)
-
+TODO: Por: Jose Manuel Lopez Lujan, MIT
+           Lorenza Illanes,Tecmilenio
 Licencia
 
 TODO: Agregar Licencia
