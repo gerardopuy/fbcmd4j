@@ -14,7 +14,7 @@ TODO: Agregar instrucciones de uso
 Créditos
 
 TODO: Por: Jose Manuel Lopez Lujan, MIT
-           Lorenza Illanes,Tecmilenio
+           ,Lorenza Illanes,Tecmilenio
 Licencia
 
 TODO: Agregar Licencia
